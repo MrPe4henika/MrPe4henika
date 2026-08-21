@@ -51,22 +51,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrPe4henika&theme=github" />
     <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrPe4henika&theme=github_dark" alt="Общая статистика" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrPe4henika&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrPe4henika&theme=github" />
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrPe4henika&theme=github_dark" alt="Время активности" />
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrPe4henika&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrPe4henika&theme=github" />
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrPe4henika&theme=github_dark" alt="Языки по репозиториям" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPe4henika&theme=github_dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPe4henika&theme=github" />
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrPe4henika&theme=github_dark" alt="Языки по коммитам" />
-  </picture>
 </div>
 
 ---
